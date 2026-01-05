@@ -1,0 +1,7 @@
+KPI,Definition
+Total Revenue,Sum of net_amount for delivered orders
+AOV,Average revenue per delivered order
+Discount Rate,Discount as % of gross revenue
+Repeat Customer Rate,Customers with 2+ orders / total customers
+On-Time Delivery Rate,On-time deliveries / delivered orders
+Return Rate,Returned orders / delivered orders
